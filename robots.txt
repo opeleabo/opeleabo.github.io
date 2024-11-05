@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opeleabo.github.io/LeR/sitemap_index.txt
+Sitemap: https://opeleabo.github.io/WGk/sitemap_index.txt
+Sitemap: https://opeleabo.github.io/gbk/sitemap_index.txt
+Sitemap: https://opeleabo.github.io/mpE/sitemap_index.txt
